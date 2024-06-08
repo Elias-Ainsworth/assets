@@ -12,7 +12,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   '';
   meta = with lib; {
     description = "Collection of fonts";
-    homepage = "http://github.com/71zenith/fonts";
+    homepage = "https://github.com/71zenith/assets";
     platforms = platforms.unix;
     maintainers = with maintainers; [zen];
   };
