@@ -12,8 +12,8 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   '';
   meta = with lib; {
     description = "Collection of fonts";
-    homepage = "https://github.com/71zenith/assets";
+    homepage = "https://github.com/Elias-Ainsworth/assets";
     platforms = platforms.unix;
-    maintainers = with maintainers; [zen];
+    maintainers = with maintainers; [Elias Ainsworth];
   };
 })
